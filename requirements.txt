@@ -1,0 +1,6 @@
+College Event Registration Website
+
+Features:
+1. Student Name
+2. Department
+3. Register Button
